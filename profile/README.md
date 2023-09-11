@@ -1,4 +1,4 @@
-# WordPress Security Software and Products 💯
+# WordPress Open-Source Security Software 💯
 
 Open-source tools from [WPSec](https://wpsec.com) and friends.
 
