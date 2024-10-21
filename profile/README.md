@@ -3,3 +3,5 @@
 Open-source security tools from [WPSec](https://wpsec.com) and friends.
 
 ## View and try our tools below
+
+* [WPSec CLI](https://github.com/wpscanner/wpsec-cli)
